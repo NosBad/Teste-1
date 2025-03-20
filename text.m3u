@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1" tvg-logo="https://lo1.in/BR/sp1.png" group-title="MINHA | SPORTS ", SPORTV 1 MEU
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1" tvg-logo="https://lo1.in/BR/sp1.png" group-title="R | SPORTS ", SPORTV 1
 http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1742531538_fc76767288e9ac5a552fa2f087f3671cc8673e3c
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB - OPÇÃO 1" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", GLOOB 
+http://kobe.kaseline.shop:2095/live/gloob/chunks.m3u8?token=1742548446_41b74194b52240166e552fb3c85f8d4b09100d13
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB - OPÇÃO 2" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", GLOOB 
+http://kobe.kaseline.shop:2095/live5/z_gloob/chunks.m3u8?token=1742548446_4b91946a0b7950b6880edc096d00cbe682f84f5d
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ GENERAL ✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ GENERAL ✦●✦
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171283.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-name="BR| AMC HD" tvg-logo="https://lo1.in/BR/amc.png" group-title="AM | BRAZIL HD",BR| AMC HD
