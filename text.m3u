@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 MEU" tvg-logo="https://lo1.in/BR/sp1.png" group-title="AM | BRAZIL HD",BR| SPORTV 1 MEU
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 MEU" tvg-logo="https://lo1.in/BR/sp1.png" group-title="MINHA | SPORTS ", SPORTV 1 MEU
 http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1742531538_fc76767288e9ac5a552fa2f087f3671cc8673e3c
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ GENERAL ✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ GENERAL ✦●✦
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171283.m3u8
