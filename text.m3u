@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1" tvg-logo="https://lo1.in/BR/sp1.png" group-title="R | SPORTS ", SPORTV 1
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1-APP" tvg-logo="https://lo1.in/BR/sp1.png" group-title="R | SPORTS ", SPORTV 1
 http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1742531538_fc76767288e9ac5a552fa2f087f3671cc8673e3c
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", GLOOB
 http://kobe.kaseline.shop:2095/live/gloob/chunks.m3u8?token=1742548446_41b74194b52240166e552fb3c85f8d4b09100d13
