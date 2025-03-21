@@ -1,10 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1" tvg-logo="https://lo1.in/BR/sp1.png" group-title="R | SPORTS ", SPORTV 1
 http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1742531538_fc76767288e9ac5a552fa2f087f3671cc8673e3c
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB - OPÇÃO 1" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", GLOOB 
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", GLOOB
 http://kobe.kaseline.shop:2095/live/gloob/chunks.m3u8?token=1742548446_41b74194b52240166e552fb3c85f8d4b09100d13
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB - OPÇÃO 2" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", GLOOB 
-http://kobe.kaseline.shop:2095/live5/z_gloob/chunks.m3u8?token=1742548446_4b91946a0b7950b6880edc096d00cbe682f84f5d
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", GLOOBINHO
+http://kobe.kaseline.shop:2095/live5/z_gloobinho/chunks.m3u8?token=1742548446_88aefcb30c883d69d571d6277db6ddcf5ceb85c8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS - OPÇÃO 1" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", DISCOVERY KIDS
+http://kobe.kaseline.shop:2095/live5/z_discoverykids/chunks.m3u8?token=1742548446_77c9ad9c29172c0b9b44bf144892f8b77943d611
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS - OPÇÃO 2" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", DISCOVERY KIDS 
+http://kobe.kaseline.shop:2095/live/discoverykids/chunks.m3u8?token=1742548446_88261ae0a47ab01d508d375f66fe888711134d07
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", CARTOON NETWORK
+http://kobe.kaseline.shop:2095/live/cartoonnetwork/chunks.m3u8?token=1742548446_c9e4b3aa4bcd499b5996a60b332dc30318458750
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", NICKELODEON 
+http://kobe.kaseline.shop:2095/live/nickelodeon/chunks.m3u8?token=1742548446_a57520393936d01afa0ff9bba1d24f42ca67daf3
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="ZOOMOO KIDS" tvg-logo="https://lo1.in/BR/glb.png" group-title="R | KIDS", ZOOMOO KIDS
+http://kobe.kaseline.shop:2095/live5/z_zoomookids/chunks.m3u8?token=1742548446_3aa73ed6d64397dad672a8ed1f01966169c961af
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ GENERAL ✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ GENERAL ✦●✦
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171283.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-name="BR| AMC HD" tvg-logo="https://lo1.in/BR/amc.png" group-title="AM | BRAZIL HD",BR| AMC HD
