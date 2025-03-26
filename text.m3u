@@ -1,21 +1,21 @@
 #EXTM3U
 PREMIERE e SPORTV
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1-AAP" tvg-logo="https://lo1.in/BR/sp1.png" group-title="PREMIERE e SPORTV", SPORTV 1-AAP
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1-APP" tvg-logo="https://lo1.in/BR/sp1.png" group-title="PREMIERE e SPORTV", SPORTV 1-APP
 http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1742531538_fc76767288e9ac5a552fa2f087f3671cc8673e3c
 KIDS
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOB-AAP
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB-APP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOB-APP
 http://kobe.kaseline.shop:2095/live/gloob/chunks.m3u8?token=1742548446_41b74194b52240166e552fb3c85f8d4b09100d13
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOBINHO-AAP
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO-APP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOBINHO-APP
 http://kobe.kaseline.shop:2095/live5/z_gloobinho/chunks.m3u8?token=1742548446_88aefcb30c883d69d571d6277db6ddcf5ceb85c8
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS-AAP - OPÇÃO 1" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", DISCOVERY KIDS-AAP
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS-APP - OPÇÃO 1" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", DISCOVERY KIDS-APP
 http://kobe.kaseline.shop:2095/live5/z_discoverykids/chunks.m3u8?token=1742548446_77c9ad9c29172c0b9b44bf144892f8b77943d611
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS-AAP - OPÇÃO 2" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", DISCOVERY KIDS-AAP
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS-APP - OPÇÃO 2" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", DISCOVERY KIDS-APP
 http://kobe.kaseline.shop:2095/live/discoverykids/chunks.m3u8?token=1742548446_88261ae0a47ab01d508d375f66fe888711134d07
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", CARTOON NETWORK-AAP
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK-APP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", CARTOON NETWORK-APP
 http://kobe.kaseline.shop:2095/live/cartoonnetwork/chunks.m3u8?token=1742548446_c9e4b3aa4bcd499b5996a60b332dc30318458750
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON-AAP" tvg-logo="https://lo1.in/BR/nickld.png" group-title="KIDS", NICKELODEON-AAP
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON-APP" tvg-logo="https://lo1.in/BR/nickld.png" group-title="KIDS", NICKELODEON-APP
 http://kobe.kaseline.shop:2095/live/nickelodeon/chunks.m3u8?token=1742548446_a57520393936d01afa0ff9bba1d24f42ca67daf3
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="ZOOMOO KIDS-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", ZOOMOO KIDS-AAP
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="ZOOMOO KIDS-APP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", ZOOMOO KIDS-APP
 http://kobe.kaseline.shop:2095/live5/z_zoomookids/chunks.m3u8?token=1742548446_3aa73ed6d64397dad672a8ed1f01966169c961af
 PREMIERE e SPORTV
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="PREMIERE e SPORTV",SPORTV FHD
