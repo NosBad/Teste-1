@@ -1,22 +1,37 @@
 #EXTM3U
+
+
+--------------------MEUS---------------------- 
 PREMIERE e SPORTV
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1-APP" tvg-logo="https://lo1.in/BR/sp1.png" group-title="PREMIERE e SPORTV", SPORTV 1-APP
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1-AAP" tvg-logo="https://lo1.in/BR/sp1.png" group-title="PREMIERE e SPORTV", SPORTV 1-AAP
 http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1742531538_fc76767288e9ac5a552fa2f087f3671cc8673e3c
+
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 1-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 1-AAP
+http://kobe.kaseline.shop:2095/live/globo/chunks.m3u8?token=1743041029_3e01a19fedffaa1eebd123bbddc0732bc011862d
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 2-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 2-AAP
+http://kobe.kaseline.shop:2095/live3/globo_saopaulo/chunks.m3u8?token=1743041029_1eb164cf8ebb20decf7521a6c689aecd8e5bcafc
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 3-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 3-AAP
+http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1743041029_e906e5358024861f2fd190d48241800f278b47b7
+
 KIDS
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB-APP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOB-APP
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOB-AAP
 http://kobe.kaseline.shop:2095/live/gloob/chunks.m3u8?token=1742548446_41b74194b52240166e552fb3c85f8d4b09100d13
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO-APP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOBINHO-APP
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOBINHO-AAP
 http://kobe.kaseline.shop:2095/live5/z_gloobinho/chunks.m3u8?token=1742548446_88aefcb30c883d69d571d6277db6ddcf5ceb85c8
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS-APP - OPÇÃO 1" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", DISCOVERY KIDS-APP
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS-AAP - OPÇÃO 1" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", DISCOVERY KIDS-AAP
 http://kobe.kaseline.shop:2095/live5/z_discoverykids/chunks.m3u8?token=1742548446_77c9ad9c29172c0b9b44bf144892f8b77943d611
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS-APP - OPÇÃO 2" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", DISCOVERY KIDS-APP
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS-AAP - OPÇÃO 2" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", DISCOVERY KIDS-AAP
 http://kobe.kaseline.shop:2095/live/discoverykids/chunks.m3u8?token=1742548446_88261ae0a47ab01d508d375f66fe888711134d07
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK-APP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", CARTOON NETWORK-APP
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", CARTOON NETWORK-AAP
 http://kobe.kaseline.shop:2095/live/cartoonnetwork/chunks.m3u8?token=1742548446_c9e4b3aa4bcd499b5996a60b332dc30318458750
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON-APP" tvg-logo="https://lo1.in/BR/nickld.png" group-title="KIDS", NICKELODEON-APP
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON-AAP" tvg-logo="https://lo1.in/BR/nickld.png" group-title="KIDS", NICKELODEON-AAP
 http://kobe.kaseline.shop:2095/live/nickelodeon/chunks.m3u8?token=1742548446_a57520393936d01afa0ff9bba1d24f42ca67daf3
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="ZOOMOO KIDS-APP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", ZOOMOO KIDS-APP
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="ZOOMOO KIDS-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", ZOOMOO KIDS-AAP
 http://kobe.kaseline.shop:2095/live5/z_zoomookids/chunks.m3u8?token=1742548446_3aa73ed6d64397dad672a8ed1f01966169c961af
+
+Canais de futebol 
+
+--------------------OUTROS---------------------- 
 PREMIERE e SPORTV
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="PREMIERE e SPORTV",SPORTV FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162504.m3u8
@@ -47,8 +62,6 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171308.m3u8
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="PREMIERE e SPORTV",SPORTV 3 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171309.m3u8
 SPORTS
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPORTS✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="SPORTS",✦●✦ SPORTS✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355446.m3u8
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://lo1.in/BR/combt.png" group-title="SPORTS",COMBATE HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162327.m3u8
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="https://lo1.in/BR/combt.png" group-title="SPORTS",COMBATE FHD
@@ -94,8 +107,6 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162360.m3u8
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 4 HD" tvg-logo="https://lo1.in/BR/espn4.png" group-title="ESPN",ESPN 4 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162358.m3u8
 KIDS
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="KIDS",✦●✦ KIDS✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355444.m3u8
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS",GLOOB FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171260.m3u8
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://lo1.in/BR/diskds.png" group-title="DOCUMENTÁRIOS",DISCOVERY KIDS HD
@@ -135,8 +146,6 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162521.m3u8
 #EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://lo1.in/BR/natgeok.png" group-title="KIDS",NAT GEO KIDS FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162459.m3u8
 FILMES
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ CINEMA✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="FILMES",✦●✦ CINEMA✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355445.m3u8
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://lo1.in/BR/axn.png" group-title="FILMES",AXN HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171323.m3u8
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://lo1.in/BR/axn.png" group-title="FILMES",AXN FHD
@@ -380,8 +389,6 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/53102.m3u8
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://lo1.in/BR/glb.png" group-title="GLOBO",GLOOB HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162428.m3u8
 VÁRIOS 
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ GENERAL ✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="VÁRIOS",✦●✦ GENERAL ✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171283.m3u8 
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://lo1.in/BR/art.png" group-title="VÁRIOS",ARTE 1 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171325.m3u8
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://lo1.in/BR/art.png" group-title="VÁRIOS",ARTE 1 FHD
@@ -457,8 +464,6 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/42802.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FONTE TV FHD" tvg-logo="https://lo1.in/BR/font.png" group-title="VÁRIOS",FONTE TV FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162372.m3u8
 Documentarios 
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ DOCUMANTARY✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="DOCUMENTÁRIOS",✦●✦ DOCUMANTARY✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355448.m3u8
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://lo1.in/BR/ane.png" group-title="DOCUMENTÁRIOS",A&E HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171324.m3u8
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://lo1.in/BR/ane.png" group-title="DOCUMENTÁRIOS",A&E FHD
@@ -516,8 +521,6 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162354.m3u8
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://lo1.in/BR/cultr.png" group-title="DOCUMENTÁRIOS",TV CULTURA HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162534.m3u8
 MUSICA
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MUSIC✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="MÚSICAS",✦●✦ MUSIC✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355447.m3u8
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="https://lo1.in/BR/vh1.png" group-title="MÚSICAS",VH1 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162557.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TH| MALIMAR LAO AND THAI MUSIC" tvg-logo="https://lo1.in/tha/flg.png" group-title="MÚSICAS",MALIMAR LAO AND THAI MUSIC
@@ -525,8 +528,6 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162304.m3u8
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV BRAZIL FHD" tvg-logo="https://lo1.in/BR/mtvbr.png" group-title="MÚSICAS",MTV BRAZIL FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162455.m3u8
 NEWS
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ NEWS ✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="NEWS",✦●✦ NEWS ✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355443.m3u8
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="NEWS",RECORD NEWS HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162484.m3u8
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://lo1.in/BR/cnnbrs.png" group-title="NEWS",CNN BRASIL HD
