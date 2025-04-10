@@ -18,7 +18,8 @@ http://kobe.kaseline.shop:2095/live/espn/chunks.m3u8?token=1743814238_04131affe6
 http://kobe.kaseline.shop:2095/live5/espn/chunks.m3u8?token=1743814238_d5a303fdf64d00cb4cfcb78ee0b082de619a695b
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 6-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 6-AAP
 http://kobe.kaseline.shop:2095/live3/stlatv1/chunks.m3u8?token=1743814238_239270199e9a8f670f30f0ef35fb8db80a18af15
-
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 7-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 7-AAP
+http://kobe.kaseline.shop:2095/live3/stlatv3/chunks.m3u8?token=1744337868_4d33d791dfa9799064065aa0d33203cbe5f3a323
 
 KIDS
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOB-AAP
