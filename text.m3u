@@ -20,6 +20,26 @@ http://kobe.kaseline.shop:2095/live5/espn/chunks.m3u8?token=1743814238_d5a303fdf
 http://kobe.kaseline.shop:2095/live3/stlatv1/chunks.m3u8?token=1743814238_239270199e9a8f670f30f0ef35fb8db80a18af15
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 7-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 7-AAP
 http://kobe.kaseline.shop:2095/live3/stlatv3/chunks.m3u8?token=1744337868_4d33d791dfa9799064065aa0d33203cbe5f3a323
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 8-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 8-AAP
+http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1744557881_bf9adeaea5f457711ad47f5032ba56c4e524eeb6
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 9-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 9-AAP
+http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1744557881_724cbf778125b28626a668c3ebb46bb7a2917121
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 10-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 10-AAP
+http://kobe.kaseline.shop:2095/live3/premiereclubes/chunks.m3u8?token=1744557881_6157fd4c20efed412190209e47d8e29d52dd30e6
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 11-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 11-AAP
+http://kobe.kaseline.shop:2095/live/espn4/chunks.m3u8?token=1744557881_e0a1827c89958d46a909d69a2cd3c8acb4492b73
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 12-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 12-AAP
+http://kobe.kaseline.shop:2095/live/espn/chunks.m3u8?token=1744557881_c352e2ca6d0be249f09a3ea7a6fb130f59a6993c
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 13-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 13-AAP
+http://kobe.kaseline.shop:2095/live5/espn/chunks.m3u8?token=1744557881_4dc98c11c15b496c91d83721ac78c94ed20af0ce
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 14-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 14-AAP
+http://kobe.kaseline.shop:2095/live3/premiere4/chunks.m3u8?token=1744557881_0f27979c23e4ab92b1500372cba1cb344770a24f
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 15-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 15-AAP
+http://kobe.kaseline.shop:2095/live3/premiere3/chunks.m3u8?token=1744557881_597ac1fed18708dca2f713a11677aaf4991e0e80
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 16-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 16-AAP
+http://kobe.kaseline.shop:2095/live/sportv/chunks.m3u8?token=1744557881_a337d0b86ec62358f1f5e17303d7683f4efc8169
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 17-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 17-AAP
+http://kobe.kaseline.shop:2095/live5/redetv/chunks.m3u8?token=1744557881_229a42fba5affa0c9c84d20a9dca3fce2cb3666f
 
 KIDS
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB-AAP" tvg-logo="https://lo1.in/BR/glb.png" group-title="KIDS", GLOOB-AAP
