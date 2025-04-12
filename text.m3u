@@ -40,9 +40,9 @@ http://kobe.kaseline.shop:2095/live3/premiere3/chunks.m3u8?token=1744557881_597a
 http://kobe.kaseline.shop:2095/live/sportv/chunks.m3u8?token=1744557881_a337d0b86ec62358f1f5e17303d7683f4efc8169
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 17-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 17-AAP
 http://kobe.kaseline.shop:2095/live5/redetv/chunks.m3u8?token=1744557881_229a42fba5affa0c9c84d20a9dca3fce2cb3666f
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 17-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 17-AAP
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 18-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 18-AAP
 http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1744577908_7bcb023d1e6d99b0021afc9f959cd961d11c4e63
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 17-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 17-AAP
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUTEBOL 19-AAP" tvg-logo="https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/estampar/catalog/painel-retangular/futebol-estadio-retangular-min.jpg" group-title="PREMIERE e SPORTV", FUTEBOL 19-AAP
 http://kobe.kaseline.shop:2095/live3/premiereclubes/chunks.m3u8?token=1744577908_f36613a287c538d6119045ba8911b37d41044966
 
 KIDS
